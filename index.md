@@ -1,4 +1,4 @@
-# TCCs do BCC 2014
+# TCCs do BCC 2014 1º semestre
 A publicação dos TCCs de BCC tem por objetivo inspirar e
 apresentar aos alunos, professores, funcionários e a comunidade (em especial as
 empresas e desenvolvedores de software locais) as invoações e realizações
